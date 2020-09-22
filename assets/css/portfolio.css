@@ -122,7 +122,7 @@ body {
   scrollbar-width: none;
 }
 
-.column2::-webkit-scrollbar {
+.column3::-webkit-scrollbar {
   display: none;
 }
 
